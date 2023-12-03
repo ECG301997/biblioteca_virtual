@@ -1,6 +1,6 @@
 # PROYECTO LIBRERIA VIRTUAL POLITECNICO GRANCOLOMBIANO
 
-Este es un proyecto de ejemplo que utiliza Node.js para el backend y React.js para el frontend.
+Este es un proyecto para el politecnico grancolombiano - proceso de software personal, el cual utiliza Node.js para el backend y React.js para el frontend.
 
 ## Descripción
 
@@ -15,7 +15,8 @@ para los estilos se uso CSS
 
 ## Instalación
 
-Para instalar la aplicación, es necesario tener Node.js y MongoDB instalados en el sistema. Una vez descargado el repositorio, se deben seguir los siguientes pasos:
+
+Para instalar la aplicación, es necesario tener Node.js, en caso de no contar con el  se puede descargar en la página https://nodejs.org/en . Una vez descargado el repositorio, se deben seguir los siguientes pasos:
 
 1. Instalar las dependencias del backend:
    
